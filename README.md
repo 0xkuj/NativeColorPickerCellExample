@@ -2,6 +2,8 @@
 You can use this repository to understand how to create your own color picker cell insie your preferences.
 This was created to help other developers avoid including libcolorpicker or other libraries which are not updated to rootless jailbreaks yet.
 
+<img src="https://github.com/0xkuj/NativeColorPickerCellExample/blob/main/nativecolorpicker.jpg" width="200" height="280">
+
 # Instructions
 
 1. Inside your preference project, download and include these two files:
@@ -63,3 +65,4 @@ Every color you pick, is saved with a HEX value in your preference plist. in ord
 ```
 Just call this method with the HEX value you read from your pref, and you will get the color that was picked.
 Enjoy!
+
