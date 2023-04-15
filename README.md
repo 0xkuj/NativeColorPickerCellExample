@@ -10,7 +10,7 @@ This was created to help other developers avoid including libcolorpicker or othe
     * EXMColorPickerCell.h
     * EXMColorPickerCell.m
     
-2. Change the path inside EXMColorPickerCell.h to your preference file path
+2. Change the path inside EXMColorPickerCell.h of "YOUR_PATH" to your preference file path
 
 3. Inside your .plist file where you add the cells into your viewcontroller (in this example, Root.plist) add the color picker cell, for example:
 ```xml
