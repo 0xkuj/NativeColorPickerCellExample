@@ -1,0 +1,8 @@
+Package: com.0xkuj.nativecolorpicker
+Name: Native Color Picker
+Version: 1.0
+Architecture: iphoneos-arm
+Description: native color picker prefs cell example
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
