@@ -34,6 +34,8 @@ This was created to help other developers avoid including libcolorpicker or othe
 </dict>
 ```
 
+NOTE - DO NOT FORGET TO INCLUDE EXMColorPickerCell.m IN YOUR PREFERENCES MAKEFILE!
+
 That's it! You implemented a native color picker cell without using any dependency.
 
 # Read the value from your main project
