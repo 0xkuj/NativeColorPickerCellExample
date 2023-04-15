@@ -1,4 +1,4 @@
-# NativeColorPickerCellExample
+# NativeColorPickerCellExample (For iOS 14 and above!)
 You can use this repository to understand how to create your own color picker cell inside your preferences.
 This was created to help other developers avoid including libcolorpicker or other libraries which are not updated to rootless jailbreaks yet.
 
